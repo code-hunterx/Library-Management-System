@@ -1,0 +1,17 @@
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\bin\Debug\Library management System 1.exe.config
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\bin\Debug\Library management System 1.exe
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\bin\Debug\Library management System 1.pdb
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library management System 1.csprojResolveAssemblyReference.cache
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library_management_System_1.Form1.resources
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library_management_System_1.Properties.Resources.resources
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library management System 1.csproj.GenerateResource.cache
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library management System 1.csproj.CoreCompileInputs.cache
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library management System 1.exe
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library management System 1.pdb
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\bin\Debug\MySql.Data.dll
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\bin\Debug\MySql.Data.xml
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library management System 1.csproj.CopyComplete
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library_management_System_1.Form2.resources
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library_management_System_1.Form3.resources
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library_management_System_1.Form4.resources
+C:\Users\NIRAV\source\repos\Library management System 1\Library management System 1\obj\Debug\Library_management_System_1.Form5.resources
